@@ -1,0 +1,6 @@
+devel_space: /mnt/storage_disk/MMRS_public/devel
+install: false
+install_space: /mnt/storage_disk/MMRS_public/install
+profile: default
+source_space: /mnt/storage_disk/MMRS_public/src
+workspace: /mnt/storage_disk/MMRS_public

@@ -1,0 +1,12 @@
+Symlinking /mnt/storage_disk/MMRS_public/devel/./setup.sh
+Symlinking /mnt/storage_disk/MMRS_public/devel/./local_setup.bash
+Symlinking /mnt/storage_disk/MMRS_public/devel/./env.sh
+Symlinking /mnt/storage_disk/MMRS_public/devel/./_setup_util.py
+Symlinking /mnt/storage_disk/MMRS_public/devel/./setup.bash
+Symlinking /mnt/storage_disk/MMRS_public/devel/./local_setup.sh
+Symlinking /mnt/storage_disk/MMRS_public/devel/./local_setup.zsh
+Symlinking /mnt/storage_disk/MMRS_public/devel/./cmake.lock
+Symlinking /mnt/storage_disk/MMRS_public/devel/./setup.zsh
+Symlinking /mnt/storage_disk/MMRS_public/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /mnt/storage_disk/MMRS_public/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /mnt/storage_disk/MMRS_public/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
